@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grill My YC Application"
+  short_description: "Draft, cut, and pressure-test YC answers"
+  default_prompt: "Use $grill-my-yc-application to rewrite my YC answers with brutal clarity, preserve every material fact, and ask the hardest unresolved follow-up."
